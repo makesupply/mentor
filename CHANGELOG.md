@@ -7,7 +7,7 @@ All notable changes to the mentor skill. Format: [Keep a Changelog](https://keep
 Expansion in progress toward v1.1.0: B2B, cross-model benchmarks, life coaching, deeper mental blockers, discipline science, and a 30/60/90 Foresight mode — driven by new research reports 4–10.
 
 ### Added
-- `references/b2b-playbook.md` — B2B structural diagnosis (sales cycle × cash timing × concentration × capital intensity), 8 B2B patterns, 12 condensed dossiers, failure table with named causes. Distilled from Report 4 (`references/research/report-4-b2b-founder-case-studies.md`, 65 sources).
+- `references/b2b-playbook.md` — B2B structural diagnosis (sales cycle × cash timing × concentration × margin structure × capital intensity), 11 B2B patterns, 17 condensed dossiers, failure cases with named causes. Distilled from Report 4 + gap-filling Report 4b (`references/research/`, 131 sources combined). Key 4b additions: services invert the delegation order (delivery first, sales last — Hawke, Single Grain); the margin-mismatch failure mode (Bench); leverage vs integration capacity (Thrasio); receivables-financing ladder with costs; a benchmark guard against vendor outreach statistics.
 
 ## [1.0.0] — 2026-08-19
 
