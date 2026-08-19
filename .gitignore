@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Founder data — created from templates at Intake, never committed
+state/founder-context.md
+state/ledger.md
+state/metrics.md
