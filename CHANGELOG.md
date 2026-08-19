@@ -2,6 +2,13 @@
 
 All notable changes to the mentor skill. Format: [Keep a Changelog](https://keepachangelog.com/); versioning: semver — MAJOR for mode-system, voice-contract, or state-format changes; MINOR for new reference modules, modes, or research refreshes; PATCH for corrections.
 
+## [Unreleased]
+
+Expansion in progress toward v1.1.0: B2B, cross-model benchmarks, life coaching, deeper mental blockers, discipline science, and a 30/60/90 Foresight mode — driven by new research reports 4–10.
+
+### Added
+- `references/b2b-playbook.md` — B2B structural diagnosis (sales cycle × cash timing × concentration × capital intensity), 8 B2B patterns, 12 condensed dossiers, failure table with named causes. Distilled from Report 4 (`references/research/report-4-b2b-founder-case-studies.md`, 65 sources).
+
 ## [1.0.0] — 2026-08-19
 
 First public release — sanitized and generalized from a personal build, expanded into a full entrepreneur-mentor system.

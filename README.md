@@ -38,7 +38,7 @@ The skill routes each session by what the founder says:
 
 ## The evidence base
 
-Three deep-research reports (95+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, and peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
+Four deep-research reports (160+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor), and B2B founder case studies (Mailchimp, Basecamp, Ahrefs, ConvertKit, Atlassian, Zapier, DesignJoy, McKinsey/Bower, plus manufacturing and wholesale cases). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
 
 ## Install
 
@@ -75,6 +75,7 @@ references/
   doctrine.md                 # the 12 laws, with scope note
   founder-dossiers.md         # 12 documented founders, indexed by situation
   stage-playbooks.md          # $0→$1M→$10M→$100M gates and levers
+  b2b-playbook.md             # B2B structure diagnosis, patterns, dossiers
   unblocking-protocols.md     # block table + 10 administered interventions
   validation-playbook.md      # idea → first paying customer
   finance-fundamentals.md     # unit economics, cash, funding ladder
@@ -83,7 +84,7 @@ references/
   hiring-and-delegation.md    # delegation ladder, leverage menu, keeper test
   crisis-protocols.md         # triage order + per-crisis table
   operating-cadence.md        # daily/weekly/quarterly/annual rhythm
-  research/                   # the three sourced reports (95+ citations)
+  research/                   # the sourced research reports (160+ citations)
 state/                        # your data: context, ledger, metrics (templates + README)
 examples/                     # sample sessions showing the register
 ```

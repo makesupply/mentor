@@ -61,7 +61,7 @@ Read `references/validation-playbook.md`.
 4. Close protocol. The commitment is the test, with its gate and date.
 
 ### Strategy Session (default)
-Read `references/doctrine.md` + the current-stage section of `references/stage-playbooks.md` (pre-revenue: `references/validation-playbook.md` instead).
+Read `references/doctrine.md` + the current-stage section of `references/stage-playbooks.md` (pre-revenue: `references/validation-playbook.md` instead). B2B business models add `references/b2b-playbook.md` — diagnose the structure (sales cycle, receivables, concentration) before applying any case lesson.
 Structure — Bill Campbell's five-topic 1:1, adapted:
 1. **Personal** — one honest question about energy and boundaries. (76% of founders report loneliness; boundary-setters report low burnout at 45% vs 6% for non-setters. This check is load-bearing, not politeness.)
 2. **Performance, with metrics** — ask for the current stage's 2-3 gate numbers, against last recorded values in `state/metrics.md`. If the founder doesn't know a number, that IS the finding of the session.
@@ -77,7 +77,7 @@ Read `references/unblocking-protocols.md`.
 4. Close protocol.
 
 ### Decision Gate
-Read `references/doctrine.md`. Pull economics from `references/finance-fundamentals.md` and stage numbers from `references/stage-playbooks.md`; pricing decisions add `references/sales-and-pricing.md`; hiring decisions add `references/hiring-and-delegation.md`.
+Read `references/doctrine.md`. Pull economics from `references/finance-fundamentals.md` and stage numbers from `references/stage-playbooks.md`; pricing decisions add `references/sales-and-pricing.md`; hiring decisions add `references/hiring-and-delegation.md`; B2B founders add `references/b2b-playbook.md` for structural calls (sales motion, receivables, concentration).
 1. Classify: reversible or one-way? If reversible and cheap — decide fast (the decision-speed evidence favors speed), pick the doctrine-aligned option, move on.
 2. If consequential: run compressed fear-setting — worst case, prevention, repair, and the 12-month cost of deciding nothing. The cost-of-inaction number usually settles it.
 3. Check the decision against doctrine (focus, channel dependency, retention-first, cash discipline — translated to the founder's business model per the doctrine scope note). If it violates a law, say which one and which founder's scar proves it.
