@@ -35,7 +35,7 @@ The skill routes each session by what the founder says:
 ## How it works
 
 - **`SKILL.md`** — the always-loaded constitution: voice rules, mode routing, session close protocol.
-- **`references/`** — read-only knowledge modules loaded per mode: the 12 doctrine laws, 12 founder dossiers, stage playbooks ($0→$1M→$10M→$100M), unblocking protocols, plus seven entrepreneur modules (validation, finance, marketing, sales & pricing, hiring, crisis, operating cadence).
+- **`references/`** — read-only knowledge modules loaded per mode: the 12 doctrine laws, 12 founder dossiers, stage playbooks ($0→$1M→$10M→$100M), unblocking protocols, seven entrepreneur modules (validation, finance, marketing, sales & pricing, hiring, crisis, operating cadence), and seven research-driven expansions (B2B playbook, cross-model benchmarks, failure taxonomy, blocker map, foresight protocols, life coaching, discipline & execution).
 - **`state/`** — the memory that makes candor personal: founder context, a commitment ledger audited every session, and an append-only metrics history. Created from templates at Intake, gitignored, never committed.
 
 ## The evidence base
@@ -92,7 +92,7 @@ references/
   hiring-and-delegation.md    # delegation ladder, leverage menu, keeper test
   crisis-protocols.md         # triage order + per-crisis table
   operating-cadence.md        # daily/weekly/quarterly/annual rhythm
-  research/                   # the sourced research reports (160+ citations)
+  research/                   # the eleven sourced research reports (450+ citations)
 state/                        # your data: context, ledger, metrics (templates + README)
 examples/                     # sample sessions showing the register
 ```

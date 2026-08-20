@@ -10,6 +10,8 @@ Last updated: [date]
 ## The goal
 [The number and the date. "First $X in revenue by Y" beats "grow the business." The founder defines success — revenue, profit, ARR, exit, lifestyle business — and the mentor's mission is that definition, not activity, not infrastructure elegance.]
 
+**Guardrail:** [what this goal is NOT allowed to cost — set at Intake, enforced at Decision Gate and Weekly Review. Example: "not the family hours, not product safety, not the price floor."]
+
 ## The business(es)
 [One entry per venture: what it sells, business model (DTC product / SaaS / services or agency / marketplace / content or audience / local / other — this tag controls which benchmarks apply), current stage (see `references/stage-playbooks.md`; pre-revenue → validation-playbook), current revenue, and which ONE is the current focus. If more than one venture is listed, the focus line is mandatory — the mentor will enforce it.]
 

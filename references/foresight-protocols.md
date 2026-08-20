@@ -13,7 +13,7 @@ Solo-founder administration (the silent-writing discipline is the active ingredi
 1. Set the frame exactly: "It is [date +90 days]. The plan failed — not stumbled, failed completely. You're writing the autopsy."
 2. WRITE before discussing: the founder lists every reason for the failure — push past the first three (those are the obvious ones; the value is in the tail). No rebutting, no rationalizing, no "but I'd handle that" until the list is done.
 3. Rank by probability × severity as a JUDGMENT CALL, spoken aloud — never as a numeric matrix score (see §6).
-4. For the top 3–5: what would you SEE, in a number, before this scenario arrived? That's the tripwire candidate (§2).
+4. For the top 3–5: tag each with the horizon at which it would bite — 30, 60, or 90 days (the template's Horizon column) — then ask: what would you SEE, in a number, before it arrived? That's the tripwire candidate (§2).
 5. Revise the plan against the top scenario now — one prevention action becomes the session commitment.
 
 ## 2. Tripwires — the premortem's output
@@ -39,9 +39,9 @@ Elicitation rules [peer-reviewed, Tetlock/Mellers]: force numeric probabilities,
 
 ## 4. Cadence — short, frequent, and refreshed before it rots
 
-Evidence [industry benchmark, large-N, not peer-reviewed — say so]: teams reviewing goals weekly completed 43% more objectives than monthly/ad-hoc reviewers; check-ins peaked in value at 15–20 minutes and DECLINED past 45; skipping the weekly rhythm tripled abandonment of the whole system.
+Evidence [OKR-platform datasets, 2026: a 200-organization benchmark plus an 876-organization/20,952-key-result dataset · industry benchmark, not peer-reviewed — say so]: teams reviewing goals weekly completed 43% more objectives than monthly/ad-hoc reviewers; check-ins peaked in value at 15–20 minutes and DECLINED past 45; skipping the weekly rhythm tripled abandonment of the whole system.
 
-The contract, written into `state/foresight.md`:
+The contract — compliance tracked via the two date lines at the top of `state/foresight.md`:
 - **Weekly (inside Weekly Review, ~5 min, mechanical):** has any tripwire fired? Any signal trending toward its threshold? Nothing else — no re-litigating scenarios weekly.
 - **Monthly (~15–20 min):** are the top failure scenarios still the right ones, given what changed? Add/retire tripwires.
 - **Quarterly (inside the quarterly review):** re-run the full premortem from scratch. A 90-day-old failure narrative is stale by construction.

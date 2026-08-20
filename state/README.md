@@ -9,4 +9,4 @@ Everything mutable lives here; everything in `references/` is read-only content.
 | `metrics.md` | `metrics.template.md` | Append-only history of every real number a session surfaces |
 | `foresight.md` | `foresight.template.md` | Rolling 30/60/90 premortem scenarios, tripwires, forecast log, postmortems |
 
-You don't need to create these by hand — the mentor's **Intake** mode creates and fills them on first run. The live files are listed in `.gitignore`; never commit them.
+You don't need to create these by hand — **Intake** creates and fills the first three on first run; `foresight.md` is created by your first Foresight session. The live files are listed in `.gitignore`; never commit them.

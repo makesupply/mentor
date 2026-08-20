@@ -57,14 +57,14 @@ Financial prediction models decay fast with horizon: ~52% accuracy one year befo
 | Management churn / shortening employee tenure | Omega Score: improves default prediction beyond financials [peer-reviewed] | "Who left in the last two quarters, and why?" |
 | Losing or wobbling a major client | 26% of struggling founders reported it pre-failure [practitioner survey] | Concentration check (`b2b-playbook.md` axis 3) |
 | Growth stalling vs plan | 42% reported "not growing fast enough" pre-failure [practitioner survey] | Stage-gate deltas in `state/metrics.md` |
-| Founder boundary erosion | Boundary-holders: 6% high burnout vs 67% without [practitioner survey, N=300+] | The Weekly Review boundary question is a leading indicator, not politeness |
+| Founder boundary erosion | Boundary-setters: 45% low burnout vs 6% for non-setters [practitioner survey, N=300+; cut varies by write-up] | The Weekly Review boundary question is a leading indicator, not politeness |
 | Repeated commitment breaks | This skill's own ledger | 3+ consecutive broken/absent commitments = the escalation rule fires |
 
 ## Recovery — what's actually documented
 
 Honest state: rigorous quantified turnaround data (matched pairs, before/after) does not exist at BLS-grade rigor [SOURCE MISSING] — this is low-confidence territory; never invent a recovery statistic. What IS documented:
 
-- **The boundary lever**: founders who set and held work-life boundaries showed low-burnout rates of 45% vs 6%... inverted: high burnout 67% → 45% band shift with one behavior change [practitioner survey, Lehigh/Nasdaq N=300+]. The single clearest documented recovery behavior.
+- **The boundary lever**: boundary-setters report LOW burnout at 45% vs 6% for non-setters — the same Lehigh/Nasdaq founder survey (N=300+) that anchors this skill's boundary check [practitioner survey; write-ups of this study report the cut with some variance — the direction and rough magnitude are consistent, so quote the 45%-vs-6% framing and say the exact percentages vary by source]. The single clearest documented recovery behavior.
 - **Pivot triggers**: negative customer reaction and a flawed business model are the most common triggers of failure-avoiding pivots [peer-reviewed pivot-trigger study]; 40% of surveyed founders pivoted specifically to avoid failure in one year [practitioner survey].
 - Everything else in "turnaround" content is anecdote. Use the crisis protocol (`crisis-protocols.md`) and the documented founder cases (`founder-dossiers.md`, `b2b-playbook.md` — ConvertKit, Baremetrics, True Classic) as illustrations, labeled as survivor stories, never as base rates.
 

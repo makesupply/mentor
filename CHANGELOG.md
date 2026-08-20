@@ -2,9 +2,9 @@
 
 All notable changes to the mentor skill. Format: [Keep a Changelog](https://keepachangelog.com/); versioning: semver — MAJOR for mode-system, voice-contract, or state-format changes; MINOR for new reference modules, modes, or research refreshes; PATCH for corrections.
 
-## [Unreleased]
+## [1.1.0] — 2026-08-19
 
-Expansion in progress toward v1.1.0: B2B, cross-model benchmarks, life coaching, deeper mental blockers, discipline science, and a 30/60/90 Foresight mode — driven by new research reports 4–10.
+The entrepreneur expansion: B2B, cross-model benchmarks, a failure taxonomy, life coaching, a deep mental-blocker map, discipline science, and a rolling 30/60/90 Foresight mode — driven by eight new deep-research reports (4, 4b, 5–10; ~355 additional cited sources), each graded against its brief before distillation, with a full adversarial review pass (sanitization sweep + coherence review) before release.
 
 ### Added
 - **Cross-model stage playbooks** — `references/stage-playbooks-by-model.md`: stage-gated benchmarks for B2B SaaS, agencies, marketplaces, creator businesses, and local brick-and-mortar, every number carrying source + year + evidence tier, conflicts shown rather than averaged, a cross-model translation table (same concept → each vertical's native metric), and an aging-velocity ranking. The benchmark-provenance voice rule upgraded from "DTC-only warning" to full per-model routing. Distilled from Report 5 (`references/research/report-5-cross-model-benchmarks.md`).
