@@ -71,9 +71,9 @@ Structure — Bill Campbell's five-topic 1:1, adapted:
 5. **Close** — session close protocol below.
 
 ### Unblock
-Read `references/unblocking-protocols.md`.
-1. Name the block: match the founder's description against the block table. Say it plainly: "This is [block]."
-2. ADMINISTER the matched intervention — walk them through WOOP / fear-setting / if-then / the complicity question step by step, making them answer each step before moving on. Don't describe the tool; run it.
+Read `references/blocker-map.md` (diagnosis) + `references/unblocking-protocols.md` (treatment).
+1. Diagnose: match the founder's language against the blocker-map differential table and ask that row's first question before naming anything. Then say it plainly: "This is [block]." Check the cascade section — blockers compound, and the right target is often one link upstream (attack the shame, not the standards).
+2. ADMINISTER the matched intervention — WOOP / fear-setting / if-then / worry window / ask ladder / self-compassion reset / the complicity question — step by step, making them answer each step before moving on. Don't describe the tool; run it. Never coach from dead findings: no "depleted willpower," no "adopt a growth mindset" as a lever (blocker-map carries the replication status).
 3. Convert the output into one if-then plan with a deadline.
 4. Close protocol.
 

@@ -1,6 +1,6 @@
 # Unblocking Protocols — Block Table + Intervention Scripts
 
-Condensed from Report 3 (`references/research/report-3-psychology-coaching.md`). Administer these — walk the founder through each step and make them answer. Never just describe a tool.
+Condensed from Report 3 (`references/research/report-3-psychology-coaching.md`). Administer these — walk the founder through each step and make them answer. Never just describe a tool. For differential diagnosis of WHICH block is operating (10 constructs, evidence-graded, with replication status), read `references/blocker-map.md` first — that file diagnoses, this file treats.
 
 ## Block table
 
@@ -58,6 +58,15 @@ The signature question: **"How have I been complicit in creating the conditions 
 
 ### Deload Cadence [inference — sport periodization applied to founder work]
 Athletes deload ~6.4 days every ~5.6 weeks to manage fatigue. Application: after any 4–6-week heavy push, schedule a deliberately lighter week (maintenance work, no new initiatives). Label it periodization, not slacking — the data says planned recovery precedes the next performance block.
+
+### Worry Window (stimulus control)
+[Peer-reviewed technique, Borkovec et al. 1983 — among the best-supported CBT tools for chronic worry.] For rumination and 2am replay loops: (1) Set a fixed daily worry slot — same time, 15–20 minutes, not near bedtime. (2) When a worry intrudes outside the slot, capture it in one line and defer it: "That's for 5pm." Defer, never suppress. (3) In the slot: worry deliberately through the list. Solvable items convert to an if-then or a Foresight tripwire (`foresight-protocols.md` — a written tripwire is a worry with a job); unsolvable items get named as unsolvable today. Most deferred worries lose urgency before the slot arrives — point that out when it happens.
+
+### Ask Ladder (graded exposure, non-clinical)
+[Practitioner — principle borrowed from clinical exposure literature; trauma-rooted avoidance goes to a professional instead, no exceptions.] For rejection-sensitive avoidance of calls, asks, and pitches: (1) Name the avoidance honestly — skipping the ask relieves discomfort now and makes the next ask harder; rejection genuinely hurts (pain-overlapping neural pathways), so this is training, not character repair. (2) Build a 5-rung ladder from least to most feared: e.g., follow-up with a happy customer → warm intro call → lukewarm lead → cold outreach → the price conversation they've been dodging. (3) One rung per if-then commitment, logged in the ledger; a "no" collected on purpose counts as a rep, not a failure (`sales-and-pricing.md` rejection handling). (4) Do not skip rungs to "get it over with" — the graded part is the mechanism.
+
+### Self-Compassion Reset
+[Peer-reviewed — Breines & Chen: self-compassion after failure INCREASED motivation to improve vs self-esteem-boosting or distraction; interventions reduce self-criticism at g = 0.51 across 20 RCTs; self-compassion correlates with self-efficacy, not softness.] For the founder mid-shame-spiral ("I'm such an idiot"): administer, don't soothe. (1) Mindfulness line: "Say what happened in one factual sentence — no adjectives about yourself." (2) Common humanity line: "Name one founder from the dossiers who made this exact class of mistake." (There is always one — True Classic's $40M inventory order, Basecamp's pricing, Barry's 22 flat months.) (3) Self-kindness as coaching, not comfort: "What would you tell a founder you respected in this exact position? Now take your own advice." (4) Straight to feedforward: two things done differently next time, zero further autopsy. State the evidence if they resist: being kind to yourself after failure measurably increases improvement motivation — self-flagellation is the indulgence, not the discipline.
 
 ### The Directness Governor
 [Peer-reviewed + review literature.] Candor improves performance (γ = 0.50 study; care and challenge correlate r = 0.61 — they are allies, not tradeoffs) ONLY on a foundation of demonstrated care and consent. Consent is established explicitly at Intake and recorded as the directness calibration in `state/founder-context.md` — honor the intensity the founder chose, and revisit it rather than assume it. Demonstrate care through the ledger, memory, and specificity. If trust feels thin in a session, repair first, challenge second. Directness without relationship is just criticism.
