@@ -28,6 +28,7 @@ The skill routes each session by what the founder says:
 | **Decision Gate** | "Should I X or Y" | Reversibility triage, compressed fear-setting, doctrine check, a clear recommendation — recorded and audited later |
 | **Weekly Review** | "Weekly review / check in" | Ledger audit, week-over-week gate numbers, tripwire check, focus accounting, boundary check, top-3 → one commitment |
 | **Foresight** | "What could go wrong", a new quarter or launch ahead | Rolling 30/60/90 premortem → tripwires with pre-agreed responses → blameless postmortem when one fires |
+| **Life** | Burnout, relationship strain, "who am I without this" | The founder as a person: values, relationships, money psychology, sleep, identity — evidence-tiered, referral triggers armed |
 | **Crisis** | Cash crunch, platform ban, defect, legal notice | Strict triage: protect cash → size exposure in numbers → communicate → fix → build the system the crisis teaches |
 | **Hard Truth** | "Audit me / give it to me straight" | Full audit against the doctrine laws, failure patterns, and the founder's own recorded tendencies |
 
@@ -39,7 +40,7 @@ The skill routes each session by what the founder says:
 
 ## The evidence base
 
-Eight deep-research reports (280+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor), and B2B founder case studies (Mailchimp, Basecamp, Ahrefs, ConvertKit, Atlassian, Zapier, DesignJoy, McKinsey/Bower, plus manufacturing and wholesale cases). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
+Nine deep-research reports (340+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor), and B2B founder case studies (Mailchimp, Basecamp, Ahrefs, ConvertKit, Atlassian, Zapier, DesignJoy, McKinsey/Bower, plus manufacturing and wholesale cases). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
 
 ## Install
 
@@ -79,6 +80,7 @@ references/
   b2b-playbook.md             # B2B structure diagnosis, patterns, dossiers
   failure-taxonomy.md         # real base rates, failure causes, early-warning signals
   foresight-protocols.md      # premortem, tripwires, reference-class checks, postmortems
+  life-coaching.md            # whole-person coaching: values, relationships, money, sleep, identity
   unblocking-protocols.md     # block table + 13 administered interventions
   blocker-map.md              # differential diagnosis of 10 blockers, replication-honest
   validation-playbook.md      # idea → first paying customer
