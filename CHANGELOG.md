@@ -7,6 +7,7 @@ All notable changes to the mentor skill. Format: [Keep a Changelog](https://keep
 Expansion in progress toward v1.1.0: B2B, cross-model benchmarks, life coaching, deeper mental blockers, discipline science, and a 30/60/90 Foresight mode — driven by new research reports 4–10.
 
 ### Added
+- `references/failure-taxonomy.md` — census-grade survival base rates (kills the "90% fail" myth), the two-layer failure-cause taxonomy with attribution-bias correction, stall-vs-fail mechanics (Greiner as heuristic, honestly mixed evidence), a checkable early-warning indicator table, and documented recovery levers. Distilled from Report 6 (`references/research/report-6-failure-taxonomy.md`). Wired into Hard Truth.
 - `references/b2b-playbook.md` — B2B structural diagnosis (sales cycle × cash timing × concentration × margin structure × capital intensity), 11 B2B patterns, 17 condensed dossiers, failure cases with named causes. Distilled from Report 4 + gap-filling Report 4b (`references/research/`, 131 sources combined). Key 4b additions: services invert the delegation order (delivery first, sales last — Hawke, Single Grain); the margin-mismatch failure mode (Bench); leverage vs integration capacity (Thrasio); receivables-financing ladder with costs; a benchmark guard against vendor outreach statistics.
 
 ## [1.0.0] — 2026-08-19

@@ -76,6 +76,7 @@ references/
   founder-dossiers.md         # 12 documented founders, indexed by situation
   stage-playbooks.md          # $0→$1M→$10M→$100M gates and levers
   b2b-playbook.md             # B2B structure diagnosis, patterns, dossiers
+  failure-taxonomy.md         # real base rates, failure causes, early-warning signals
   unblocking-protocols.md     # block table + 10 administered interventions
   validation-playbook.md      # idea → first paying customer
   finance-fundamentals.md     # unit economics, cash, funding ladder
