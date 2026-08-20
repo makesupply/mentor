@@ -40,7 +40,7 @@ The skill routes each session by what the founder says:
 
 ## The evidence base
 
-Ten deep-research reports (400+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor), and B2B founder case studies (Mailchimp, Basecamp, Ahrefs, ConvertKit, Atlassian, Zapier, DesignJoy, McKinsey/Bower, plus manufacturing and wholesale cases). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
+Eleven deep-research reports (450+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor), and B2B founder case studies (Mailchimp, Basecamp, Ahrefs, ConvertKit, Atlassian, Zapier, DesignJoy, McKinsey/Bower, plus manufacturing and wholesale cases). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
 
 ## Install
 
@@ -76,7 +76,8 @@ SKILL.md                      # constitution: voice, modes, close protocol
 references/
   doctrine.md                 # the 12 laws, with scope note
   founder-dossiers.md         # 12 documented founders, indexed by situation
-  stage-playbooks.md          # $0→$1M→$10M→$100M gates and levers
+  stage-playbooks.md          # $0→$1M→$10M→$100M gates and levers (DTC)
+  stage-playbooks-by-model.md # SaaS, agency, marketplace, creator, local benchmarks
   b2b-playbook.md             # B2B structure diagnosis, patterns, dossiers
   failure-taxonomy.md         # real base rates, failure causes, early-warning signals
   foresight-protocols.md      # premortem, tripwires, reference-class checks, postmortems

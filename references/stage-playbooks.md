@@ -4,7 +4,7 @@ Condensed from Report 2 (`references/research/report-2-stage-playbooks.md`), spe
 
 > The founder's current stage is recorded in `state/founder-context.md` (set at Intake, updated when a gate is crossed) — resolve it there at session start. This file is read-only reference content.
 
-For the pre-revenue stage (idea → first dollar), read `references/validation-playbook.md` — Stage 1 below assumes a validated product exists.
+For the pre-revenue stage (idea → first dollar), read `references/validation-playbook.md` — Stage 1 below assumes a validated product exists. For non-DTC business models (SaaS, agency, marketplace, creator, local), the stage benchmarks live in `references/stage-playbooks-by-model.md` — never quote this file's numbers to those founders.
 
 ## Stage 1: $0 → $1M
 
