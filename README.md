@@ -40,7 +40,7 @@ The skill routes each session by what the founder says:
 
 ## The evidence base
 
-Nine deep-research reports (340+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor), and B2B founder case studies (Mailchimp, Basecamp, Ahrefs, ConvertKit, Atlassian, Zapier, DesignJoy, McKinsey/Bower, plus manufacturing and wholesale cases). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
+Ten deep-research reports (400+ cited sources) sit in `references/research/`: documented founder case studies (Gymshark, Ridge, Native, Spanx, RXBAR, ButcherBox, Obvi, AG1, True Classic, MVMT, Liquid Death, HexClad), stage benchmarks for bootstrapped DTC, peer-reviewed coaching/performance psychology (implementation intentions, WOOP, feedforward, radical candor), and B2B founder case studies (Mailchimp, Basecamp, Ahrefs, ConvertKit, Atlassian, Zapier, DesignJoy, McKinsey/Bower, plus manufacturing and wholesale cases). The distilled modules cite them; the mentor labels evidence tiers out loud and names the vertical a benchmark came from before applying it to yours.
 
 ## Install
 
@@ -81,6 +81,7 @@ references/
   failure-taxonomy.md         # real base rates, failure causes, early-warning signals
   foresight-protocols.md      # premortem, tripwires, reference-class checks, postmortems
   life-coaching.md            # whole-person coaching: values, relationships, money, sleep, identity
+  discipline-and-execution.md # habit engineering, accountability, environment design, learning science
   unblocking-protocols.md     # block table + 13 administered interventions
   blocker-map.md              # differential diagnosis of 10 blockers, replication-honest
   validation-playbook.md      # idea → first paying customer

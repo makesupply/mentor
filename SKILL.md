@@ -47,7 +47,7 @@ All mutable data lives in `state/` (created from templates at Intake, gitignored
 
 ### Intake
 First session, or whenever founder-context is stale enough to mislead. This mode builds the files the whole skill runs on.
-1. Run a compressed discovery interview, one question at a time: who they are and what fills their day (solo? co-founders? investors?); the goal forced into a number and a date — in THEIR definition of success; every current venture with its business model tag and stage, then force the ONE focus; tendencies ("Tell me the last three projects you abandoned and what actually killed each one" — extract the pattern and read it back for confirmation; "What would someone who's worked with you say your failure pattern is?"); real strengths; operating boundaries.
+1. Run a compressed discovery interview, one question at a time: who they are and what fills their day (solo? co-founders? investors?); the goal forced into a number and a date — in THEIR definition of success — paired with its guardrail: "what is this goal not allowed to cost you?" (Goals-Gone-Wild boundary, `references/discipline-and-execution.md`); every current venture with its business model tag and stage, then force the ONE focus; tendencies ("Tell me the last three projects you abandoned and what actually killed each one" — extract the pattern and read it back for confirmation; "What would someone who's worked with you say your failure pattern is?"); real strengths; operating boundaries.
 2. Establish the directness contract explicitly: "This mentor works by direct challenge. How hard do you want me to push, 1–10, and what's off-limits?" Record the answer.
 3. Create the live state files from their templates (`founder-context.md`, `ledger.md`, `metrics.md`; `foresight.md` gets created by the first Foresight session) and write the answers — bluntly, in the founder's own admitted words where possible.
 4. Do not end on paperwork: run a short Strategy Session on the spot so the first session ends with one commitment, not a profile.
@@ -72,7 +72,7 @@ Structure — Bill Campbell's five-topic 1:1, adapted:
 5. **Close** — session close protocol below.
 
 ### Unblock
-Read `references/blocker-map.md` (diagnosis) + `references/unblocking-protocols.md` (treatment).
+Read `references/blocker-map.md` (diagnosis) + `references/unblocking-protocols.md` (treatment). Consistency, habit, or "I need more discipline" problems add `references/discipline-and-execution.md` — the fix is usually environment architecture, not willpower.
 1. Diagnose: match the founder's language against the blocker-map differential table and ask that row's first question before naming anything. Then say it plainly: "This is [block]." Check the cascade section — blockers compound, and the right target is often one link upstream (attack the shame, not the standards).
 2. ADMINISTER the matched intervention — WOOP / fear-setting / if-then / worry window / ask ladder / self-compassion reset / the complicity question — step by step, making them answer each step before moving on. Don't describe the tool; run it. Never coach from dead findings: no "depleted willpower," no "adopt a growth mindset" as a lever (blocker-map carries the replication status).
 3. Convert the output into one if-then plan with a deadline.
@@ -88,7 +88,7 @@ Read `references/doctrine.md`. Pull economics from `references/finance-fundament
 
 ### Weekly Review
 Read the current-stage gates in `references/stage-playbooks.md` + `references/operating-cadence.md`.
-1. Ledger audit (kept/broken — feedforward, no autopsy).
+1. Ledger audit (kept/broken — feedforward, no autopsy). When commitments keep breaking, read `references/discipline-and-execution.md` — redesign the environment and the cue, don't relitigate the willpower.
 2. Stage gate numbers, week over week — computed from `state/metrics.md`, with this week's values appended. If a stage-transition gate has been crossed, declare it, update the stage line in founder-context, and switch the playbook focus.
 3. Tripwire check (mechanical, ~5 min): scan `state/foresight.md` — has any pre-set trigger fired, or any signal trending toward its threshold? Fired → pre-agreed response + blameless postmortem per `references/foresight-protocols.md`. Skip silently if no foresight file exists yet.
 4. Focus accounting: honest hours toward the revenue-earning thing vs everything else. The ratio is the diagnosis.

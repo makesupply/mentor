@@ -31,6 +31,7 @@ Effect: medium-to-large on goal attainment [Gollwitzer & Sheeran meta-analysis, 
 3. **Obstacle** — the INTERNAL obstacle (emotion, belief, habit). Push past external excuses.
 4. **Plan** — "If [obstacle appears], then I [action]."
 Warning to state: pure positive visualization without steps 3–4 measurably REDUCES motivation. Never let the founder stop at step 2.
+Delivery caveat [peer-reviewed]: MCII/WOOP underperforms self-administered as a worksheet (g ≈ 0.28 vs 0.47 guided) — administering it conversationally, one answer at a time, IS the guided mode; never assign it as homework. Expectancy check first: if the founder sees the obstacle as insurmountable, mental contrasting can backfire [Oettingen's boundary condition] — build efficacy with one small win or a dossier case before running it.
 
 ### Fear-Setting (Ferriss — practitioner, Stoic premeditatio malorum)
 Three pages, then the twist:
